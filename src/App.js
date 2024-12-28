@@ -31,7 +31,7 @@ const App = () => {
     fetchData();
   }, [])
   
-
+ // changes made
   return (
     <div className="min-h-screen flex flex-col bg-bgDark2">
       <div>
